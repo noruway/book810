@@ -1,0 +1,7 @@
+08:32:26.916 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @11187ms
+08:32:27.076 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.2.0.v20140526
+08:32:27.099 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@7fb719a9{/,null,AVAILABLE}
+08:32:27.133 [main] INFO  o.e.jetty.server.ServerConnector - Started ServerConnector@1680e50{HTTP/1.1}{0.0.0.0:8080}
+08:32:27.134 [main] INFO  org.eclipse.jetty.server.Server - Started @11649ms
+08:34:17.038 [qtp1137397235-22] INFO  io.pedestal.http - {:line 69, :msg "GET /"}
+08:34:17.129 [qtp1137397235-24] INFO  io.pedestal.http - {:line 69, :msg "GET /favicon.ico"}
